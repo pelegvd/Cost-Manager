@@ -5,7 +5,7 @@ Data saved in Local storage
 
 * link to our website : https://costmanagerped.netlify.app/
 
-* link to youtube video - https://youtu.be/Y0AdbRY1LPk
+* link to youtube video : https://youtu.be/Y0AdbRY1LPk
 
 * home page screeshot:
 
