@@ -1,0 +1,57 @@
+/* Peleg Vadbeker 209485838
+   Eden Blau 208571927
+   Dudi Kreis 311333900
+*/
+
+.about-us-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 10px auto;
+}
+
+.about-us-container h2 {
+    font-size: 1.5rem;
+    font-weight: 800;
+    margin-top: 2rem;
+    border-bottom: 1px solid #000;
+    border-radius: 5px;
+}
+
+.about-us-text {
+    text-align: center;
+
+}
+
+.team-members-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.team-member-card {
+    height: auto;
+    max-width: 20%;
+    padding: 1rem;
+    justify-items: center;
+
+
+}
+
+.team-member-card h3,
+.team-member-card p {
+    text-align: center;
+}
+
+.team-member-card img {
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+    aspect-ratio: 1/1;
+
+
+}
