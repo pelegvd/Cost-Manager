@@ -7,7 +7,7 @@ Data saved in Local storage
 
 * link to youtube video : https://youtu.be/Y0AdbRY1LPk
 
-Our system is a tool for managing financial expenses, to enter your financial expenses you must enter date, item, price, category and description and click on add item.
+Our system is a tool for managing financial expenses, to enter your financial expenses you must enter date, item, price, category and description and click on add cost.
 
 The items you entered will appear in the table below, you also have the option to filter by month and year and see the expenses in this period.
 
